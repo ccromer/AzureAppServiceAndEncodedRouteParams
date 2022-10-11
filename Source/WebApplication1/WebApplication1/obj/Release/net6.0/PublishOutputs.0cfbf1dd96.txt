@@ -1,0 +1,11 @@
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development\GitHub\AzureAppServiceAndEncodedRouteParams\Source\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
